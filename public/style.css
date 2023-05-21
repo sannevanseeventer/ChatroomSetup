@@ -254,11 +254,11 @@ section h1 {
 }
 
 .menu-button:hover {
-  box-shadow: #6f82ed;
+  box-shadow: black;
 }
 
 .menu-button:hover h4 {
-  color: #6f82ed;
+  color: black;
 }
 
 .active-menu-button {
@@ -281,7 +281,7 @@ section h1 {
 }
 
 .menu-button:hover .menu-icon {
-  fill: #6f82ed;
+  fill: black;
   ;
 }
 

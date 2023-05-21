@@ -45,6 +45,7 @@ main {
   margin: 0;
   padding: 0;
   min-width: 60rem;
+  max-height: 30rem;
   display: flex;
   justify-content: center;
   align-items: center;
